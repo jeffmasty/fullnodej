@@ -35,6 +35,8 @@ public class BlockchainInfo {
 
 	Boolean pruned;
 
+	long mediantime;
+
 	ArrayList<Softfork> softforks;
 
 }
